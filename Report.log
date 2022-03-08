@@ -1,0 +1,9 @@
+
+! pdflatex: security risk: running with elevated privileges
+! initexmf: security risk: running with elevated privileges
+! initexmf: security risk: running with elevated privileges
+
+! Sorry, but "MiKTeX Configuration Utility" did not succeed.
+
+! Sorry, but C:\PROGRA~1\MiKTeX\miktex\bin\x64\pdflatex.exe did not succeed.
+! pdflatex: major issue: So far, you have not checked for MiKTeX updates.
